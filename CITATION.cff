@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Leakage-controlled Roman Urdu-English Sentiment Study"
+message: "Please cite the associated PeerJ Computer Science manuscript when using this repository."
+type: software
+authors:
+  - given-names: Kanwar Muhammad
+    family-names: Afaq
+  - given-names: Ammar
+    family-names: Amjad
+  - given-names: Hsien-Tsung
+    family-names: Chang
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/KanwarAfaq/Leakage-controlled-Roman-Urdu"
